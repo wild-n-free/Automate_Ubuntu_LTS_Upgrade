@@ -50,3 +50,7 @@ Distributor ID: Ubuntu
 Description:    Ubuntu 22.04.4 LTS
 Release:        22.04
 Codename:       jammy
+
+
+## License
+This script is provided as-is, without warranty. Use at your own risk.
