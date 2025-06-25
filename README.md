@@ -15,7 +15,6 @@ This script automates the process of upgrading a Debian-based Linux system (like
 
 - A Debian-based system (e.g., Ubuntu)
 - `sudo` privileges
-- An internet connection
 - Recommended: Backup important files before running
 
 ## Usage
@@ -51,6 +50,7 @@ Distributor ID: Ubuntu
 Description:    Ubuntu 22.04.4 LTS
 Release:        22.04
 Codename:       jammy
+
 
 ## License
 This script is provided as-is, without warranty. Use at your own risk.
