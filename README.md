@@ -22,12 +22,16 @@ This script automates the process of upgrading a Debian-based Linux system (like
 1. Clone this repository or download the script directly.
 
 2. Make the script executable:
-   ```bashchmod +x upgrade-to-lts.sh```
+   ```bash
+   chmod +x upgrade-to-lts.sh
+   ```
 
-3. Run the script:
-   ```bash./upgrade-to-lts.sh```
+4. Run the script:
+   ```bash
+   ./upgrade-to-lts.sh
+   ```
 
-4. Follow any prompts during the release upgrade.
+6. Follow any prompts during the release upgrade.
 
 ## Notes
 
