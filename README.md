@@ -38,6 +38,7 @@ It uses do-release-upgrade, which may prompt for user interaction.
 You may need to reboot the system after the upgrade completes.
 
 ## Example Output
+
 ```bash
 Updating package lists...
 Upgrading installed packages...
@@ -50,7 +51,9 @@ Distributor ID: Ubuntu
 Description:    Ubuntu 22.04.4 LTS
 Release:        22.04
 Codename:       jammy
+```
 
 
 ## License
+
 This script is provided as-is, without warranty. Use at your own risk.
